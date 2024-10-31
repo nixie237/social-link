@@ -1,0 +1,1 @@
+This page is made using html for content and css to make it prittier.
